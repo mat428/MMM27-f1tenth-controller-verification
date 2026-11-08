@@ -1,0 +1,31 @@
+controller,term,n_high,n_low,high_minus_low_rmse_m
+Pure Pursuit,speed_code,44,72,0.009326323995994767
+Pure Pursuit,delay_code,44,72,0.02747999348081296
+Pure Pursuit,noise_code,56,60,-0.0071607794060636575
+Pure Pursuit,bias_code,60,56,0.011093622930759404
+Pure Pursuit,mismatch_code,56,60,-0.009786166248677133
+Pure Pursuit,speed_code*delay_code,44,72,0.027669987913852452
+Pure Pursuit,speed_code*noise_code,56,60,-0.007232242258523907
+Pure Pursuit,speed_code*bias_code,60,56,0.006168344180649418
+Pure Pursuit,speed_code*mismatch_code,56,60,-0.009172540373719108
+Pure Pursuit,delay_code*noise_code,56,60,-0.006897993814385554
+Pure Pursuit,delay_code*bias_code,60,56,0.005228371977595184
+Pure Pursuit,delay_code*mismatch_code,56,60,-0.006129093437333411
+Pure Pursuit,noise_code*bias_code,56,60,-0.0061292095912205725
+Pure Pursuit,noise_code*mismatch_code,60,56,0.0052472020227822685
+Pure Pursuit,bias_code*mismatch_code,56,60,-0.006922799626331147
+Stanley,speed_code,72,72,0.0765755478498903
+Stanley,delay_code,72,72,0.000542674287064851
+Stanley,noise_code,72,72,-0.00018356289238674606
+Stanley,bias_code,72,72,-0.006113675890934631
+Stanley,mismatch_code,72,72,0.008422240589855745
+Stanley,speed_code*delay_code,72,72,0.00043478542483284255
+Stanley,speed_code*noise_code,72,72,0.0005809977645685194
+Stanley,speed_code*bias_code,72,72,-0.0036199872764855617
+Stanley,speed_code*mismatch_code,72,72,0.007766250063849664
+Stanley,delay_code*noise_code,72,72,1.955081085933119e-05
+Stanley,delay_code*bias_code,72,72,0.00023834804001816867
+Stanley,delay_code*mismatch_code,72,72,-6.375534675057137e-05
+Stanley,noise_code*bias_code,72,72,-0.00011267817220932119
+Stanley,noise_code*mismatch_code,72,72,0.00020910291881841292
+Stanley,bias_code*mismatch_code,72,72,-8.629293492935786e-05

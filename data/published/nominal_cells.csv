@@ -1,0 +1,25 @@
+track,speed_mps,controller,runs,safe,complete_rmse_mean_m
+chicane,0.6,Pure Pursuit,3,3,0.028041913494580267
+chicane,0.6,Stanley,3,3,0.03355335906948834
+chicane,1.0,Pure Pursuit,3,3,0.02572095117294143
+chicane,1.0,Stanley,3,3,0.05014215118651444
+chicane,1.5,Pure Pursuit,3,3,0.021449339522283534
+chicane,1.5,Stanley,3,3,0.07438546506723107
+chicane,2.0,Pure Pursuit,3,3,0.015440539551175832
+chicane,2.0,Stanley,3,3,0.10633583433645123
+hairpin,0.6,Pure Pursuit,3,3,0.0265258897814428
+hairpin,0.6,Stanley,3,3,0.0344184281092746
+hairpin,1.0,Pure Pursuit,3,3,0.024392774129458766
+hairpin,1.0,Stanley,3,3,0.05126226457173877
+hairpin,1.5,Pure Pursuit,3,3,0.0203704216426175
+hairpin,1.5,Stanley,3,3,0.0765179853747159
+hairpin,2.0,Pure Pursuit,3,3,0.014821901121453268
+hairpin,2.0,Stanley,3,3,0.10621175412774407
+oval,0.6,Pure Pursuit,3,3,0.0256411215393256
+oval,0.6,Stanley,3,3,0.0299628912485536
+oval,1.0,Pure Pursuit,3,3,0.023581476427610767
+oval,1.0,Stanley,3,3,0.04511513260888924
+oval,1.5,Pure Pursuit,3,3,0.0194976993666202
+oval,1.5,Stanley,3,3,0.06888271794291177
+oval,2.0,Pure Pursuit,3,3,0.0139385254518279
+oval,2.0,Stanley,3,3,0.0998254921114949

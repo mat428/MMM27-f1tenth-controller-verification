@@ -1,0 +1,14 @@
+field,passed,max_absolute_difference
+run_id,True,
+time_s,True,0.0
+lap_count,True,0.0
+x_m,True,0.0
+y_m,True,0.0
+yaw_rad,True,0.0
+speed_mps,True,0.0
+path_index,True,0.0
+lateral_error_m,True,0.0
+heading_error_rad,True,0.0
+curvature_1pm,True,0.0
+steering_command_rad,True,0.0
+state_age_s,True,0.0

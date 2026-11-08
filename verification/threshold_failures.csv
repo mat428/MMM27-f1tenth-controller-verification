@@ -1,0 +1,5 @@
+phase,controller,assigned_runs,completions,valid_accuracy_runs,exceeded_lateral_rmse,exceeded_lateral_p95,exceeded_heading_rmse,note
+A_nominal,Pure Pursuit,36,36,36,0,0,0,Overlapping threshold counts; incomplete runs have no accuracy.
+A_nominal,Stanley,36,36,36,7,3,0,Overlapping threshold counts; incomplete runs have no accuracy.
+B_fraction,Pure Pursuit,144,116,116,8,8,8,Overlapping threshold counts; incomplete runs have no accuracy.
+B_fraction,Stanley,144,144,144,46,26,0,Overlapping threshold counts; incomplete runs have no accuracy.

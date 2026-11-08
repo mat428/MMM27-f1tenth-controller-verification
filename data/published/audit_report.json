@@ -1,0 +1,86 @@
+{
+  "audit": {
+    "counts": {
+      "passed": true,
+      "detail": "(360, 360, 360)"
+    },
+    "schedule_matches": {
+      "passed": true,
+      "detail": "IDs and factor codes"
+    },
+    "two_controllers_per_pair": {
+      "passed": true,
+      "detail": "{2: 180}"
+    },
+    "phase_counts": {
+      "passed": true,
+      "detail": "{'B_fraction': 288, 'A_nominal': 72}"
+    },
+    "fraction_generator": {
+      "passed": true,
+      "detail": "I=ABCDE; 16 distinct points"
+    },
+    "main_and_two_factor_balance": {
+      "passed": true,
+      "detail": "all first- and second-order columns balanced"
+    },
+    "all_log_ids_match": {
+      "passed": true,
+      "detail": "833662"
+    },
+    "per_run_sample_counts": {
+      "passed": true,
+      "detail": "raw log rows versus summary"
+    },
+    "state_age_levels": {
+      "passed": true,
+      "detail": "(0.0, 0.0800000000000409)"
+    },
+    "independent_metric_recalculation": {
+      "passed": true,
+      "detail": "1.0658141036401503e-14"
+    },
+    "failure_accuracy_missing": {
+      "passed": true,
+      "detail": "28"
+    },
+    "no_invalid_numerics": {
+      "passed": true,
+      "detail": "332"
+    }
+  },
+  "summary": {
+    "runs": 360,
+    "raw_rows": 833662,
+    "safe_by_phase_controller": [
+      {
+        "phase": "A_nominal",
+        "controller": "Pure Pursuit",
+        "sum": 36,
+        "count": 36
+      },
+      {
+        "phase": "A_nominal",
+        "controller": "Stanley",
+        "sum": 36,
+        "count": 36
+      },
+      {
+        "phase": "B_fraction",
+        "controller": "Pure Pursuit",
+        "sum": 116,
+        "count": 144
+      },
+      {
+        "phase": "B_fraction",
+        "controller": "Stanley",
+        "sum": 144,
+        "count": 144
+      }
+    ],
+    "nominal_complete_pairs": 36,
+    "nominal_paired_mean_pp_minus_stanley_m": -0.04309924354613917,
+    "nominal_paired_median_pp_minus_stanley_m": -0.03813136626230486,
+    "note": "Accuracy comparisons condition on both completing; safety is reported for all runs. No general-population p-values are asserted."
+  }
+}

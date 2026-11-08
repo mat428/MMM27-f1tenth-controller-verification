@@ -1,0 +1,21 @@
+{
+  "simulator_commit": "4fdb9c7e6fb7c701290f4dc18377d07c1681724f",
+  "python": "3.12.14",
+  "gym": "0.26.2",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "code_sha256": "b04af178834fff1a9f27e9959843b75aaf967fd64cb78d2ab037794e67dff00a",
+  "seed_values": [
+    3101,
+    3102,
+    3103
+  ],
+  "run_count": 360,
+  "seconds": 419.28423023223877,
+  "design": "A nominal four speeds; B 2^(5-1) I=ABCDE resolution V; controller crossed; track blocked",
+  "frozen_tuning": {
+    "pure_pursuit_lookahead_m": 0.45,
+    "stanley_gain": 1.8
+  },
+  "simulated_only": true
+}

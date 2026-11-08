@@ -1,0 +1,91 @@
+controller,term,response,n_high,n_low,high_minus_low,units
+Pure Pursuit,speed_code,lateral_rmse_m,36,72,-0.01384381611825636,m
+Pure Pursuit,speed_code,safe_completion,72,72,-38.888888888888886,percentage_points
+Pure Pursuit,speed_code,accepted,72,72,-50.0,percentage_points
+Pure Pursuit,delay_code,lateral_rmse_m,36,72,0.006813807778260888,m
+Pure Pursuit,delay_code,safe_completion,72,72,-38.888888888888886,percentage_points
+Pure Pursuit,delay_code,accepted,72,72,-50.0,percentage_points
+Pure Pursuit,noise_code,lateral_rmse_m,54,54,-0.00011513860661503325,m
+Pure Pursuit,noise_code,safe_completion,72,72,-5.555555555555558,percentage_points
+Pure Pursuit,noise_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,bias_code,lateral_rmse_m,54,54,0.004462017405316446,m
+Pure Pursuit,bias_code,safe_completion,72,72,5.555555555555558,percentage_points
+Pure Pursuit,bias_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,mismatch_code,lateral_rmse_m,54,54,-0.0021261910883642945,m
+Pure Pursuit,mismatch_code,safe_completion,72,72,-5.555555555555558,percentage_points
+Pure Pursuit,mismatch_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,speed_code*delay_code,lateral_rmse_m,36,72,0.0070300083399954805,m
+Pure Pursuit,speed_code*delay_code,safe_completion,72,72,-38.888888888888886,percentage_points
+Pure Pursuit,speed_code*delay_code,accepted,72,72,-50.0,percentage_points
+Pure Pursuit,speed_code*noise_code,lateral_rmse_m,54,54,-0.00019180373569116504,m
+Pure Pursuit,speed_code*noise_code,safe_completion,72,72,-5.555555555555558,percentage_points
+Pure Pursuit,speed_code*noise_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,speed_code*bias_code,lateral_rmse_m,54,54,-0.0008218065411616897,m
+Pure Pursuit,speed_code*bias_code,safe_completion,72,72,5.555555555555558,percentage_points
+Pure Pursuit,speed_code*bias_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,speed_code*mismatch_code,lateral_rmse_m,54,54,-0.0014678951305549179,m
+Pure Pursuit,speed_code*mismatch_code,safe_completion,72,72,-5.555555555555558,percentage_points
+Pure Pursuit,speed_code*mismatch_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,delay_code*noise_code,lateral_rmse_m,54,54,0.00016677697066415018,m
+Pure Pursuit,delay_code*noise_code,safe_completion,72,72,-5.555555555555558,percentage_points
+Pure Pursuit,delay_code*noise_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,delay_code*bias_code,lateral_rmse_m,54,54,-0.0018302058394574217,m
+Pure Pursuit,delay_code*bias_code,safe_completion,72,72,5.555555555555558,percentage_points
+Pure Pursuit,delay_code*bias_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,delay_code*mismatch_code,lateral_rmse_m,54,54,0.0017971054142266706,m
+Pure Pursuit,delay_code*mismatch_code,safe_completion,72,72,-5.555555555555558,percentage_points
+Pure Pursuit,delay_code*mismatch_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,noise_code*bias_code,lateral_rmse_m,54,54,0.0017969808046925384,m
+Pure Pursuit,noise_code*bias_code,safe_completion,72,72,-5.555555555555558,percentage_points
+Pure Pursuit,noise_code*bias_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,noise_code*mismatch_code,lateral_rmse_m,54,54,-0.0018100050246973275,m
+Pure Pursuit,noise_code*mismatch_code,safe_completion,72,72,5.555555555555558,percentage_points
+Pure Pursuit,noise_code*mismatch_code,accepted,72,72,0.0,percentage_points
+Pure Pursuit,bias_code*mismatch_code,lateral_rmse_m,54,54,0.00014016537164204812,m
+Pure Pursuit,bias_code*mismatch_code,safe_completion,72,72,-5.555555555555558,percentage_points
+Pure Pursuit,bias_code*mismatch_code,accepted,72,72,0.0,percentage_points
+Stanley,speed_code,lateral_rmse_m,72,72,0.0765755478498903,m
+Stanley,speed_code,safe_completion,72,72,0.0,percentage_points
+Stanley,speed_code,accepted,72,72,-63.888888888888886,percentage_points
+Stanley,delay_code,lateral_rmse_m,72,72,0.000542674287064851,m
+Stanley,delay_code,safe_completion,72,72,0.0,percentage_points
+Stanley,delay_code,accepted,72,72,-2.777777777777779,percentage_points
+Stanley,noise_code,lateral_rmse_m,72,72,-0.00018356289238674606,m
+Stanley,noise_code,safe_completion,72,72,0.0,percentage_points
+Stanley,noise_code,accepted,72,72,-2.777777777777779,percentage_points
+Stanley,bias_code,lateral_rmse_m,72,72,-0.006113675890934631,m
+Stanley,bias_code,safe_completion,72,72,0.0,percentage_points
+Stanley,bias_code,accepted,72,72,30.555555555555557,percentage_points
+Stanley,mismatch_code,lateral_rmse_m,72,72,0.008422240589855745,m
+Stanley,mismatch_code,safe_completion,72,72,0.0,percentage_points
+Stanley,mismatch_code,accepted,72,72,-2.777777777777779,percentage_points
+Stanley,speed_code*delay_code,lateral_rmse_m,72,72,0.00043478542483284255,m
+Stanley,speed_code*delay_code,safe_completion,72,72,0.0,percentage_points
+Stanley,speed_code*delay_code,accepted,72,72,-2.777777777777779,percentage_points
+Stanley,speed_code*noise_code,lateral_rmse_m,72,72,0.0005809977645685194,m
+Stanley,speed_code*noise_code,safe_completion,72,72,0.0,percentage_points
+Stanley,speed_code*noise_code,accepted,72,72,-2.777777777777779,percentage_points
+Stanley,speed_code*bias_code,lateral_rmse_m,72,72,-0.0036199872764855617,m
+Stanley,speed_code*bias_code,safe_completion,72,72,0.0,percentage_points
+Stanley,speed_code*bias_code,accepted,72,72,30.555555555555557,percentage_points
+Stanley,speed_code*mismatch_code,lateral_rmse_m,72,72,0.007766250063849664,m
+Stanley,speed_code*mismatch_code,safe_completion,72,72,0.0,percentage_points
+Stanley,speed_code*mismatch_code,accepted,72,72,-2.777777777777779,percentage_points
+Stanley,delay_code*noise_code,lateral_rmse_m,72,72,1.955081085933119e-05,m
+Stanley,delay_code*noise_code,safe_completion,72,72,0.0,percentage_points
+Stanley,delay_code*noise_code,accepted,72,72,2.777777777777779,percentage_points
+Stanley,delay_code*bias_code,lateral_rmse_m,72,72,0.00023834804001816867,m
+Stanley,delay_code*bias_code,safe_completion,72,72,0.0,percentage_points
+Stanley,delay_code*bias_code,accepted,72,72,2.777777777777779,percentage_points
+Stanley,delay_code*mismatch_code,lateral_rmse_m,72,72,-6.375534675057137e-05,m
+Stanley,delay_code*mismatch_code,safe_completion,72,72,0.0,percentage_points
+Stanley,delay_code*mismatch_code,accepted,72,72,2.777777777777779,percentage_points
+Stanley,noise_code*bias_code,lateral_rmse_m,72,72,-0.00011267817220932119,m
+Stanley,noise_code*bias_code,safe_completion,72,72,0.0,percentage_points
+Stanley,noise_code*bias_code,accepted,72,72,2.777777777777779,percentage_points
+Stanley,noise_code*mismatch_code,lateral_rmse_m,72,72,0.00020910291881841292,m
+Stanley,noise_code*mismatch_code,safe_completion,72,72,0.0,percentage_points
+Stanley,noise_code*mismatch_code,accepted,72,72,2.777777777777779,percentage_points
+Stanley,bias_code*mismatch_code,lateral_rmse_m,72,72,-8.629293492935786e-05,m
+Stanley,bias_code*mismatch_code,safe_completion,72,72,0.0,percentage_points
+Stanley,bias_code*mismatch_code,accepted,72,72,2.777777777777779,percentage_points

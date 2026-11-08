@@ -1,0 +1,5 @@
+phase,controller,runs,completed,accepted
+A_nominal,Pure Pursuit,36,36,36
+A_nominal,Stanley,36,36,29
+B_fraction,Pure Pursuit,144,116,108
+B_fraction,Stanley,144,144,98

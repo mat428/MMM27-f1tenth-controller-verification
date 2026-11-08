@@ -1,0 +1,19 @@
+# Local environments, source dependency and disposable build/runtime output.
+.venv/
+vendor/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+f1tenth_simulation_results/
+results/smoke/
+results/smoke_execution.json
+results_supplied/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.run.xml
+# Published and fresh data plus verification receipts are intentionally tracked.

@@ -1,0 +1,361 @@
+phase,design_point,track,seed,controller,speed_mps,delay_requested_s,noise_on,bias_on,mismatch_on,speed_code,delay_code,noise_code,bias_code,mismatch_code,run_id,run_order,pair_id
+A_nominal,N2,oval,3102,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE001,1,A_nominal:oval:N2:3102
+A_nominal,N2,oval,3102,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE002,2,A_nominal:oval:N2:3102
+A_nominal,N1.5,oval,3101,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE003,3,A_nominal:oval:N1.5:3101
+A_nominal,N1.5,oval,3101,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE004,4,A_nominal:oval:N1.5:3101
+A_nominal,N1,oval,3102,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE005,5,A_nominal:oval:N1:3102
+A_nominal,N1,oval,3102,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE006,6,A_nominal:oval:N1:3102
+A_nominal,N0.6,oval,3103,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE007,7,A_nominal:oval:N0.6:3103
+A_nominal,N0.6,oval,3103,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE008,8,A_nominal:oval:N0.6:3103
+A_nominal,N2,oval,3101,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE009,9,A_nominal:oval:N2:3101
+A_nominal,N2,oval,3101,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE010,10,A_nominal:oval:N2:3101
+A_nominal,N2,oval,3103,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE011,11,A_nominal:oval:N2:3103
+A_nominal,N2,oval,3103,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE012,12,A_nominal:oval:N2:3103
+A_nominal,N0.6,oval,3101,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE013,13,A_nominal:oval:N0.6:3101
+A_nominal,N0.6,oval,3101,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE014,14,A_nominal:oval:N0.6:3101
+A_nominal,N1.5,oval,3103,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE015,15,A_nominal:oval:N1.5:3103
+A_nominal,N1.5,oval,3103,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE016,16,A_nominal:oval:N1.5:3103
+A_nominal,N0.6,oval,3102,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE017,17,A_nominal:oval:N0.6:3102
+A_nominal,N0.6,oval,3102,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE018,18,A_nominal:oval:N0.6:3102
+A_nominal,N1,oval,3103,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE019,19,A_nominal:oval:N1:3103
+A_nominal,N1,oval,3103,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE020,20,A_nominal:oval:N1:3103
+A_nominal,N1.5,oval,3102,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE021,21,A_nominal:oval:N1.5:3102
+A_nominal,N1.5,oval,3102,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE022,22,A_nominal:oval:N1.5:3102
+A_nominal,N1,oval,3101,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE023,23,A_nominal:oval:N1:3101
+A_nominal,N1,oval,3101,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE024,24,A_nominal:oval:N1:3101
+A_nominal,N2,hairpin,3102,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE025,25,A_nominal:hairpin:N2:3102
+A_nominal,N2,hairpin,3102,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE026,26,A_nominal:hairpin:N2:3102
+A_nominal,N1,hairpin,3103,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE027,27,A_nominal:hairpin:N1:3103
+A_nominal,N1,hairpin,3103,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE028,28,A_nominal:hairpin:N1:3103
+A_nominal,N0.6,hairpin,3103,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE029,29,A_nominal:hairpin:N0.6:3103
+A_nominal,N0.6,hairpin,3103,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE030,30,A_nominal:hairpin:N0.6:3103
+A_nominal,N2,hairpin,3101,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE031,31,A_nominal:hairpin:N2:3101
+A_nominal,N2,hairpin,3101,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE032,32,A_nominal:hairpin:N2:3101
+A_nominal,N1.5,hairpin,3102,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE033,33,A_nominal:hairpin:N1.5:3102
+A_nominal,N1.5,hairpin,3102,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE034,34,A_nominal:hairpin:N1.5:3102
+A_nominal,N2,hairpin,3103,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE035,35,A_nominal:hairpin:N2:3103
+A_nominal,N2,hairpin,3103,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE036,36,A_nominal:hairpin:N2:3103
+A_nominal,N0.6,hairpin,3101,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE037,37,A_nominal:hairpin:N0.6:3101
+A_nominal,N0.6,hairpin,3101,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE038,38,A_nominal:hairpin:N0.6:3101
+A_nominal,N1.5,hairpin,3101,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE039,39,A_nominal:hairpin:N1.5:3101
+A_nominal,N1.5,hairpin,3101,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE040,40,A_nominal:hairpin:N1.5:3101
+A_nominal,N1,hairpin,3101,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE041,41,A_nominal:hairpin:N1:3101
+A_nominal,N1,hairpin,3101,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE042,42,A_nominal:hairpin:N1:3101
+A_nominal,N1,hairpin,3102,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE043,43,A_nominal:hairpin:N1:3102
+A_nominal,N1,hairpin,3102,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE044,44,A_nominal:hairpin:N1:3102
+A_nominal,N0.6,hairpin,3102,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE045,45,A_nominal:hairpin:N0.6:3102
+A_nominal,N0.6,hairpin,3102,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE046,46,A_nominal:hairpin:N0.6:3102
+A_nominal,N1.5,hairpin,3103,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE047,47,A_nominal:hairpin:N1.5:3103
+A_nominal,N1.5,hairpin,3103,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE048,48,A_nominal:hairpin:N1.5:3103
+A_nominal,N1.5,chicane,3103,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE049,49,A_nominal:chicane:N1.5:3103
+A_nominal,N1.5,chicane,3103,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE050,50,A_nominal:chicane:N1.5:3103
+A_nominal,N1,chicane,3103,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE051,51,A_nominal:chicane:N1:3103
+A_nominal,N1,chicane,3103,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE052,52,A_nominal:chicane:N1:3103
+A_nominal,N1.5,chicane,3102,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE053,53,A_nominal:chicane:N1.5:3102
+A_nominal,N1.5,chicane,3102,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE054,54,A_nominal:chicane:N1.5:3102
+A_nominal,N1.5,chicane,3101,Pure Pursuit,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE055,55,A_nominal:chicane:N1.5:3101
+A_nominal,N1.5,chicane,3101,Stanley,1.5,0.0,0,0,0,-1,-1,-1,-1,-1,DOE056,56,A_nominal:chicane:N1.5:3101
+A_nominal,N2,chicane,3103,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE057,57,A_nominal:chicane:N2:3103
+A_nominal,N2,chicane,3103,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE058,58,A_nominal:chicane:N2:3103
+A_nominal,N1,chicane,3102,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE059,59,A_nominal:chicane:N1:3102
+A_nominal,N1,chicane,3102,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE060,60,A_nominal:chicane:N1:3102
+A_nominal,N2,chicane,3101,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE061,61,A_nominal:chicane:N2:3101
+A_nominal,N2,chicane,3101,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE062,62,A_nominal:chicane:N2:3101
+A_nominal,N0.6,chicane,3102,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE063,63,A_nominal:chicane:N0.6:3102
+A_nominal,N0.6,chicane,3102,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE064,64,A_nominal:chicane:N0.6:3102
+A_nominal,N0.6,chicane,3103,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE065,65,A_nominal:chicane:N0.6:3103
+A_nominal,N0.6,chicane,3103,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE066,66,A_nominal:chicane:N0.6:3103
+A_nominal,N2,chicane,3102,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE067,67,A_nominal:chicane:N2:3102
+A_nominal,N2,chicane,3102,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE068,68,A_nominal:chicane:N2:3102
+A_nominal,N0.6,chicane,3101,Pure Pursuit,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE069,69,A_nominal:chicane:N0.6:3101
+A_nominal,N0.6,chicane,3101,Stanley,0.6,0.0,0,0,0,-1,-1,-1,-1,-1,DOE070,70,A_nominal:chicane:N0.6:3101
+A_nominal,N1,chicane,3101,Stanley,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE071,71,A_nominal:chicane:N1:3101
+A_nominal,N1,chicane,3101,Pure Pursuit,1.0,0.0,0,0,0,-1,-1,-1,-1,-1,DOE072,72,A_nominal:chicane:N1:3101
+B_fraction,F15,oval,3102,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE073,73,B_fraction:oval:F15:3102
+B_fraction,F15,oval,3102,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE074,74,B_fraction:oval:F15:3102
+B_fraction,F09,oval,3103,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE075,75,B_fraction:oval:F09:3103
+B_fraction,F09,oval,3103,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE076,76,B_fraction:oval:F09:3103
+B_fraction,F14,oval,3101,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE077,77,B_fraction:oval:F14:3101
+B_fraction,F14,oval,3101,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE078,78,B_fraction:oval:F14:3101
+B_fraction,F13,oval,3101,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE079,79,B_fraction:oval:F13:3101
+B_fraction,F13,oval,3101,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE080,80,B_fraction:oval:F13:3101
+B_fraction,F03,oval,3101,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE081,81,B_fraction:oval:F03:3101
+B_fraction,F03,oval,3101,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE082,82,B_fraction:oval:F03:3101
+B_fraction,F03,oval,3103,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE083,83,B_fraction:oval:F03:3103
+B_fraction,F03,oval,3103,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE084,84,B_fraction:oval:F03:3103
+B_fraction,F06,oval,3102,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE085,85,B_fraction:oval:F06:3102
+B_fraction,F06,oval,3102,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE086,86,B_fraction:oval:F06:3102
+B_fraction,F12,oval,3103,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE087,87,B_fraction:oval:F12:3103
+B_fraction,F12,oval,3103,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE088,88,B_fraction:oval:F12:3103
+B_fraction,F12,oval,3101,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE089,89,B_fraction:oval:F12:3101
+B_fraction,F12,oval,3101,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE090,90,B_fraction:oval:F12:3101
+B_fraction,F07,oval,3102,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE091,91,B_fraction:oval:F07:3102
+B_fraction,F07,oval,3102,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE092,92,B_fraction:oval:F07:3102
+B_fraction,F01,oval,3102,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE093,93,B_fraction:oval:F01:3102
+B_fraction,F01,oval,3102,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE094,94,B_fraction:oval:F01:3102
+B_fraction,F01,oval,3103,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE095,95,B_fraction:oval:F01:3103
+B_fraction,F01,oval,3103,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE096,96,B_fraction:oval:F01:3103
+B_fraction,F15,oval,3103,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE097,97,B_fraction:oval:F15:3103
+B_fraction,F15,oval,3103,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE098,98,B_fraction:oval:F15:3103
+B_fraction,F14,oval,3102,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE099,99,B_fraction:oval:F14:3102
+B_fraction,F14,oval,3102,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE100,100,B_fraction:oval:F14:3102
+B_fraction,F16,oval,3102,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE101,101,B_fraction:oval:F16:3102
+B_fraction,F16,oval,3102,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE102,102,B_fraction:oval:F16:3102
+B_fraction,F05,oval,3103,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE103,103,B_fraction:oval:F05:3103
+B_fraction,F05,oval,3103,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE104,104,B_fraction:oval:F05:3103
+B_fraction,F02,oval,3101,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE105,105,B_fraction:oval:F02:3101
+B_fraction,F02,oval,3101,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE106,106,B_fraction:oval:F02:3101
+B_fraction,F15,oval,3101,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE107,107,B_fraction:oval:F15:3101
+B_fraction,F15,oval,3101,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE108,108,B_fraction:oval:F15:3101
+B_fraction,F11,oval,3101,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE109,109,B_fraction:oval:F11:3101
+B_fraction,F11,oval,3101,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE110,110,B_fraction:oval:F11:3101
+B_fraction,F12,oval,3102,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE111,111,B_fraction:oval:F12:3102
+B_fraction,F12,oval,3102,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE112,112,B_fraction:oval:F12:3102
+B_fraction,F11,oval,3103,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE113,113,B_fraction:oval:F11:3103
+B_fraction,F11,oval,3103,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE114,114,B_fraction:oval:F11:3103
+B_fraction,F07,oval,3101,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE115,115,B_fraction:oval:F07:3101
+B_fraction,F07,oval,3101,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE116,116,B_fraction:oval:F07:3101
+B_fraction,F06,oval,3103,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE117,117,B_fraction:oval:F06:3103
+B_fraction,F06,oval,3103,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE118,118,B_fraction:oval:F06:3103
+B_fraction,F16,oval,3103,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE119,119,B_fraction:oval:F16:3103
+B_fraction,F16,oval,3103,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE120,120,B_fraction:oval:F16:3103
+B_fraction,F09,oval,3102,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE121,121,B_fraction:oval:F09:3102
+B_fraction,F09,oval,3102,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE122,122,B_fraction:oval:F09:3102
+B_fraction,F05,oval,3101,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE123,123,B_fraction:oval:F05:3101
+B_fraction,F05,oval,3101,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE124,124,B_fraction:oval:F05:3101
+B_fraction,F04,oval,3102,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE125,125,B_fraction:oval:F04:3102
+B_fraction,F04,oval,3102,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE126,126,B_fraction:oval:F04:3102
+B_fraction,F05,oval,3102,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE127,127,B_fraction:oval:F05:3102
+B_fraction,F05,oval,3102,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE128,128,B_fraction:oval:F05:3102
+B_fraction,F06,oval,3101,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE129,129,B_fraction:oval:F06:3101
+B_fraction,F06,oval,3101,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE130,130,B_fraction:oval:F06:3101
+B_fraction,F13,oval,3103,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE131,131,B_fraction:oval:F13:3103
+B_fraction,F13,oval,3103,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE132,132,B_fraction:oval:F13:3103
+B_fraction,F08,oval,3103,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE133,133,B_fraction:oval:F08:3103
+B_fraction,F08,oval,3103,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE134,134,B_fraction:oval:F08:3103
+B_fraction,F10,oval,3101,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE135,135,B_fraction:oval:F10:3101
+B_fraction,F10,oval,3101,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE136,136,B_fraction:oval:F10:3101
+B_fraction,F14,oval,3103,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE137,137,B_fraction:oval:F14:3103
+B_fraction,F14,oval,3103,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE138,138,B_fraction:oval:F14:3103
+B_fraction,F01,oval,3101,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE139,139,B_fraction:oval:F01:3101
+B_fraction,F01,oval,3101,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE140,140,B_fraction:oval:F01:3101
+B_fraction,F11,oval,3102,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE141,141,B_fraction:oval:F11:3102
+B_fraction,F11,oval,3102,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE142,142,B_fraction:oval:F11:3102
+B_fraction,F02,oval,3102,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE143,143,B_fraction:oval:F02:3102
+B_fraction,F02,oval,3102,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE144,144,B_fraction:oval:F02:3102
+B_fraction,F10,oval,3103,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE145,145,B_fraction:oval:F10:3103
+B_fraction,F10,oval,3103,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE146,146,B_fraction:oval:F10:3103
+B_fraction,F07,oval,3103,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE147,147,B_fraction:oval:F07:3103
+B_fraction,F07,oval,3103,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE148,148,B_fraction:oval:F07:3103
+B_fraction,F09,oval,3101,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE149,149,B_fraction:oval:F09:3101
+B_fraction,F09,oval,3101,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE150,150,B_fraction:oval:F09:3101
+B_fraction,F10,oval,3102,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE151,151,B_fraction:oval:F10:3102
+B_fraction,F10,oval,3102,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE152,152,B_fraction:oval:F10:3102
+B_fraction,F08,oval,3101,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE153,153,B_fraction:oval:F08:3101
+B_fraction,F08,oval,3101,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE154,154,B_fraction:oval:F08:3101
+B_fraction,F03,oval,3102,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE155,155,B_fraction:oval:F03:3102
+B_fraction,F03,oval,3102,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE156,156,B_fraction:oval:F03:3102
+B_fraction,F02,oval,3103,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE157,157,B_fraction:oval:F02:3103
+B_fraction,F02,oval,3103,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE158,158,B_fraction:oval:F02:3103
+B_fraction,F04,oval,3101,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE159,159,B_fraction:oval:F04:3101
+B_fraction,F04,oval,3101,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE160,160,B_fraction:oval:F04:3101
+B_fraction,F13,oval,3102,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE161,161,B_fraction:oval:F13:3102
+B_fraction,F13,oval,3102,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE162,162,B_fraction:oval:F13:3102
+B_fraction,F08,oval,3102,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE163,163,B_fraction:oval:F08:3102
+B_fraction,F08,oval,3102,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE164,164,B_fraction:oval:F08:3102
+B_fraction,F04,oval,3103,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE165,165,B_fraction:oval:F04:3103
+B_fraction,F04,oval,3103,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE166,166,B_fraction:oval:F04:3103
+B_fraction,F16,oval,3101,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE167,167,B_fraction:oval:F16:3101
+B_fraction,F16,oval,3101,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE168,168,B_fraction:oval:F16:3101
+B_fraction,F14,hairpin,3102,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE169,169,B_fraction:hairpin:F14:3102
+B_fraction,F14,hairpin,3102,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE170,170,B_fraction:hairpin:F14:3102
+B_fraction,F06,hairpin,3103,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE171,171,B_fraction:hairpin:F06:3103
+B_fraction,F06,hairpin,3103,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE172,172,B_fraction:hairpin:F06:3103
+B_fraction,F16,hairpin,3102,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE173,173,B_fraction:hairpin:F16:3102
+B_fraction,F16,hairpin,3102,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE174,174,B_fraction:hairpin:F16:3102
+B_fraction,F01,hairpin,3102,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE175,175,B_fraction:hairpin:F01:3102
+B_fraction,F01,hairpin,3102,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE176,176,B_fraction:hairpin:F01:3102
+B_fraction,F11,hairpin,3102,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE177,177,B_fraction:hairpin:F11:3102
+B_fraction,F11,hairpin,3102,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE178,178,B_fraction:hairpin:F11:3102
+B_fraction,F03,hairpin,3101,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE179,179,B_fraction:hairpin:F03:3101
+B_fraction,F03,hairpin,3101,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE180,180,B_fraction:hairpin:F03:3101
+B_fraction,F07,hairpin,3103,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE181,181,B_fraction:hairpin:F07:3103
+B_fraction,F07,hairpin,3103,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE182,182,B_fraction:hairpin:F07:3103
+B_fraction,F04,hairpin,3102,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE183,183,B_fraction:hairpin:F04:3102
+B_fraction,F04,hairpin,3102,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE184,184,B_fraction:hairpin:F04:3102
+B_fraction,F15,hairpin,3101,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE185,185,B_fraction:hairpin:F15:3101
+B_fraction,F15,hairpin,3101,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE186,186,B_fraction:hairpin:F15:3101
+B_fraction,F11,hairpin,3103,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE187,187,B_fraction:hairpin:F11:3103
+B_fraction,F11,hairpin,3103,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE188,188,B_fraction:hairpin:F11:3103
+B_fraction,F04,hairpin,3101,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE189,189,B_fraction:hairpin:F04:3101
+B_fraction,F04,hairpin,3101,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE190,190,B_fraction:hairpin:F04:3101
+B_fraction,F02,hairpin,3103,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE191,191,B_fraction:hairpin:F02:3103
+B_fraction,F02,hairpin,3103,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE192,192,B_fraction:hairpin:F02:3103
+B_fraction,F15,hairpin,3102,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE193,193,B_fraction:hairpin:F15:3102
+B_fraction,F15,hairpin,3102,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE194,194,B_fraction:hairpin:F15:3102
+B_fraction,F09,hairpin,3103,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE195,195,B_fraction:hairpin:F09:3103
+B_fraction,F09,hairpin,3103,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE196,196,B_fraction:hairpin:F09:3103
+B_fraction,F13,hairpin,3103,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE197,197,B_fraction:hairpin:F13:3103
+B_fraction,F13,hairpin,3103,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE198,198,B_fraction:hairpin:F13:3103
+B_fraction,F04,hairpin,3103,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE199,199,B_fraction:hairpin:F04:3103
+B_fraction,F04,hairpin,3103,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE200,200,B_fraction:hairpin:F04:3103
+B_fraction,F12,hairpin,3102,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE201,201,B_fraction:hairpin:F12:3102
+B_fraction,F12,hairpin,3102,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE202,202,B_fraction:hairpin:F12:3102
+B_fraction,F02,hairpin,3101,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE203,203,B_fraction:hairpin:F02:3101
+B_fraction,F02,hairpin,3101,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE204,204,B_fraction:hairpin:F02:3101
+B_fraction,F03,hairpin,3103,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE205,205,B_fraction:hairpin:F03:3103
+B_fraction,F03,hairpin,3103,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE206,206,B_fraction:hairpin:F03:3103
+B_fraction,F06,hairpin,3102,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE207,207,B_fraction:hairpin:F06:3102
+B_fraction,F06,hairpin,3102,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE208,208,B_fraction:hairpin:F06:3102
+B_fraction,F08,hairpin,3101,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE209,209,B_fraction:hairpin:F08:3101
+B_fraction,F08,hairpin,3101,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE210,210,B_fraction:hairpin:F08:3101
+B_fraction,F02,hairpin,3102,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE211,211,B_fraction:hairpin:F02:3102
+B_fraction,F02,hairpin,3102,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE212,212,B_fraction:hairpin:F02:3102
+B_fraction,F13,hairpin,3102,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE213,213,B_fraction:hairpin:F13:3102
+B_fraction,F13,hairpin,3102,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE214,214,B_fraction:hairpin:F13:3102
+B_fraction,F10,hairpin,3102,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE215,215,B_fraction:hairpin:F10:3102
+B_fraction,F10,hairpin,3102,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE216,216,B_fraction:hairpin:F10:3102
+B_fraction,F10,hairpin,3103,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE217,217,B_fraction:hairpin:F10:3103
+B_fraction,F10,hairpin,3103,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE218,218,B_fraction:hairpin:F10:3103
+B_fraction,F08,hairpin,3103,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE219,219,B_fraction:hairpin:F08:3103
+B_fraction,F08,hairpin,3103,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE220,220,B_fraction:hairpin:F08:3103
+B_fraction,F01,hairpin,3103,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE221,221,B_fraction:hairpin:F01:3103
+B_fraction,F01,hairpin,3103,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE222,222,B_fraction:hairpin:F01:3103
+B_fraction,F05,hairpin,3103,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE223,223,B_fraction:hairpin:F05:3103
+B_fraction,F05,hairpin,3103,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE224,224,B_fraction:hairpin:F05:3103
+B_fraction,F01,hairpin,3101,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE225,225,B_fraction:hairpin:F01:3101
+B_fraction,F01,hairpin,3101,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE226,226,B_fraction:hairpin:F01:3101
+B_fraction,F08,hairpin,3102,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE227,227,B_fraction:hairpin:F08:3102
+B_fraction,F08,hairpin,3102,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE228,228,B_fraction:hairpin:F08:3102
+B_fraction,F16,hairpin,3101,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE229,229,B_fraction:hairpin:F16:3101
+B_fraction,F16,hairpin,3101,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE230,230,B_fraction:hairpin:F16:3101
+B_fraction,F05,hairpin,3102,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE231,231,B_fraction:hairpin:F05:3102
+B_fraction,F05,hairpin,3102,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE232,232,B_fraction:hairpin:F05:3102
+B_fraction,F14,hairpin,3101,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE233,233,B_fraction:hairpin:F14:3101
+B_fraction,F14,hairpin,3101,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE234,234,B_fraction:hairpin:F14:3101
+B_fraction,F11,hairpin,3101,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE235,235,B_fraction:hairpin:F11:3101
+B_fraction,F11,hairpin,3101,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE236,236,B_fraction:hairpin:F11:3101
+B_fraction,F12,hairpin,3101,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE237,237,B_fraction:hairpin:F12:3101
+B_fraction,F12,hairpin,3101,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE238,238,B_fraction:hairpin:F12:3101
+B_fraction,F12,hairpin,3103,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE239,239,B_fraction:hairpin:F12:3103
+B_fraction,F12,hairpin,3103,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE240,240,B_fraction:hairpin:F12:3103
+B_fraction,F07,hairpin,3101,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE241,241,B_fraction:hairpin:F07:3101
+B_fraction,F07,hairpin,3101,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE242,242,B_fraction:hairpin:F07:3101
+B_fraction,F09,hairpin,3102,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE243,243,B_fraction:hairpin:F09:3102
+B_fraction,F09,hairpin,3102,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE244,244,B_fraction:hairpin:F09:3102
+B_fraction,F15,hairpin,3103,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE245,245,B_fraction:hairpin:F15:3103
+B_fraction,F15,hairpin,3103,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE246,246,B_fraction:hairpin:F15:3103
+B_fraction,F03,hairpin,3102,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE247,247,B_fraction:hairpin:F03:3102
+B_fraction,F03,hairpin,3102,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE248,248,B_fraction:hairpin:F03:3102
+B_fraction,F09,hairpin,3101,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE249,249,B_fraction:hairpin:F09:3101
+B_fraction,F09,hairpin,3101,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE250,250,B_fraction:hairpin:F09:3101
+B_fraction,F05,hairpin,3101,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE251,251,B_fraction:hairpin:F05:3101
+B_fraction,F05,hairpin,3101,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE252,252,B_fraction:hairpin:F05:3101
+B_fraction,F07,hairpin,3102,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE253,253,B_fraction:hairpin:F07:3102
+B_fraction,F07,hairpin,3102,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE254,254,B_fraction:hairpin:F07:3102
+B_fraction,F06,hairpin,3101,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE255,255,B_fraction:hairpin:F06:3101
+B_fraction,F06,hairpin,3101,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE256,256,B_fraction:hairpin:F06:3101
+B_fraction,F10,hairpin,3101,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE257,257,B_fraction:hairpin:F10:3101
+B_fraction,F10,hairpin,3101,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE258,258,B_fraction:hairpin:F10:3101
+B_fraction,F13,hairpin,3101,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE259,259,B_fraction:hairpin:F13:3101
+B_fraction,F13,hairpin,3101,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE260,260,B_fraction:hairpin:F13:3101
+B_fraction,F16,hairpin,3103,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE261,261,B_fraction:hairpin:F16:3103
+B_fraction,F16,hairpin,3103,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE262,262,B_fraction:hairpin:F16:3103
+B_fraction,F14,hairpin,3103,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE263,263,B_fraction:hairpin:F14:3103
+B_fraction,F14,hairpin,3103,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE264,264,B_fraction:hairpin:F14:3103
+B_fraction,F12,chicane,3102,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE265,265,B_fraction:chicane:F12:3102
+B_fraction,F12,chicane,3102,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE266,266,B_fraction:chicane:F12:3102
+B_fraction,F09,chicane,3103,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE267,267,B_fraction:chicane:F09:3103
+B_fraction,F09,chicane,3103,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE268,268,B_fraction:chicane:F09:3103
+B_fraction,F09,chicane,3101,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE269,269,B_fraction:chicane:F09:3101
+B_fraction,F09,chicane,3101,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE270,270,B_fraction:chicane:F09:3101
+B_fraction,F01,chicane,3103,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE271,271,B_fraction:chicane:F01:3103
+B_fraction,F01,chicane,3103,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE272,272,B_fraction:chicane:F01:3103
+B_fraction,F10,chicane,3101,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE273,273,B_fraction:chicane:F10:3101
+B_fraction,F10,chicane,3101,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE274,274,B_fraction:chicane:F10:3101
+B_fraction,F05,chicane,3102,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE275,275,B_fraction:chicane:F05:3102
+B_fraction,F05,chicane,3102,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE276,276,B_fraction:chicane:F05:3102
+B_fraction,F06,chicane,3103,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE277,277,B_fraction:chicane:F06:3103
+B_fraction,F06,chicane,3103,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE278,278,B_fraction:chicane:F06:3103
+B_fraction,F10,chicane,3103,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE279,279,B_fraction:chicane:F10:3103
+B_fraction,F10,chicane,3103,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE280,280,B_fraction:chicane:F10:3103
+B_fraction,F13,chicane,3102,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE281,281,B_fraction:chicane:F13:3102
+B_fraction,F13,chicane,3102,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE282,282,B_fraction:chicane:F13:3102
+B_fraction,F16,chicane,3101,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE283,283,B_fraction:chicane:F16:3101
+B_fraction,F16,chicane,3101,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE284,284,B_fraction:chicane:F16:3101
+B_fraction,F02,chicane,3101,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE285,285,B_fraction:chicane:F02:3101
+B_fraction,F02,chicane,3101,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE286,286,B_fraction:chicane:F02:3101
+B_fraction,F01,chicane,3101,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE287,287,B_fraction:chicane:F01:3101
+B_fraction,F01,chicane,3101,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE288,288,B_fraction:chicane:F01:3101
+B_fraction,F08,chicane,3103,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE289,289,B_fraction:chicane:F08:3103
+B_fraction,F08,chicane,3103,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE290,290,B_fraction:chicane:F08:3103
+B_fraction,F01,chicane,3102,Pure Pursuit,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE291,291,B_fraction:chicane:F01:3102
+B_fraction,F01,chicane,3102,Stanley,0.6,0.0,0,0,1,-1,-1,-1,-1,1,DOE292,292,B_fraction:chicane:F01:3102
+B_fraction,F16,chicane,3102,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE293,293,B_fraction:chicane:F16:3102
+B_fraction,F16,chicane,3102,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE294,294,B_fraction:chicane:F16:3102
+B_fraction,F10,chicane,3102,Stanley,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE295,295,B_fraction:chicane:F10:3102
+B_fraction,F10,chicane,3102,Pure Pursuit,2.0,0.0,0,1,1,1,-1,-1,1,1,DOE296,296,B_fraction:chicane:F10:3102
+B_fraction,F16,chicane,3103,Stanley,2.0,0.075,1,1,1,1,1,1,1,1,DOE297,297,B_fraction:chicane:F16:3103
+B_fraction,F16,chicane,3103,Pure Pursuit,2.0,0.075,1,1,1,1,1,1,1,1,DOE298,298,B_fraction:chicane:F16:3103
+B_fraction,F07,chicane,3101,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE299,299,B_fraction:chicane:F07:3101
+B_fraction,F07,chicane,3101,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE300,300,B_fraction:chicane:F07:3101
+B_fraction,F12,chicane,3103,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE301,301,B_fraction:chicane:F12:3103
+B_fraction,F12,chicane,3103,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE302,302,B_fraction:chicane:F12:3103
+B_fraction,F05,chicane,3101,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE303,303,B_fraction:chicane:F05:3101
+B_fraction,F05,chicane,3101,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE304,304,B_fraction:chicane:F05:3101
+B_fraction,F04,chicane,3102,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE305,305,B_fraction:chicane:F04:3102
+B_fraction,F04,chicane,3102,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE306,306,B_fraction:chicane:F04:3102
+B_fraction,F03,chicane,3101,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE307,307,B_fraction:chicane:F03:3101
+B_fraction,F03,chicane,3101,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE308,308,B_fraction:chicane:F03:3101
+B_fraction,F15,chicane,3103,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE309,309,B_fraction:chicane:F15:3103
+B_fraction,F15,chicane,3103,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE310,310,B_fraction:chicane:F15:3103
+B_fraction,F04,chicane,3101,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE311,311,B_fraction:chicane:F04:3101
+B_fraction,F04,chicane,3101,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE312,312,B_fraction:chicane:F04:3101
+B_fraction,F14,chicane,3102,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE313,313,B_fraction:chicane:F14:3102
+B_fraction,F14,chicane,3102,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE314,314,B_fraction:chicane:F14:3102
+B_fraction,F12,chicane,3101,Stanley,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE315,315,B_fraction:chicane:F12:3101
+B_fraction,F12,chicane,3101,Pure Pursuit,2.0,0.0,1,1,0,1,-1,1,1,-1,DOE316,316,B_fraction:chicane:F12:3101
+B_fraction,F02,chicane,3103,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE317,317,B_fraction:chicane:F02:3103
+B_fraction,F02,chicane,3103,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE318,318,B_fraction:chicane:F02:3103
+B_fraction,F11,chicane,3101,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE319,319,B_fraction:chicane:F11:3101
+B_fraction,F11,chicane,3101,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE320,320,B_fraction:chicane:F11:3101
+B_fraction,F03,chicane,3103,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE321,321,B_fraction:chicane:F03:3103
+B_fraction,F03,chicane,3103,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE322,322,B_fraction:chicane:F03:3103
+B_fraction,F05,chicane,3103,Pure Pursuit,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE323,323,B_fraction:chicane:F05:3103
+B_fraction,F05,chicane,3103,Stanley,0.6,0.075,0,0,0,-1,1,-1,-1,-1,DOE324,324,B_fraction:chicane:F05:3103
+B_fraction,F15,chicane,3101,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE325,325,B_fraction:chicane:F15:3101
+B_fraction,F15,chicane,3101,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE326,326,B_fraction:chicane:F15:3101
+B_fraction,F14,chicane,3101,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE327,327,B_fraction:chicane:F14:3101
+B_fraction,F14,chicane,3101,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE328,328,B_fraction:chicane:F14:3101
+B_fraction,F03,chicane,3102,Stanley,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE329,329,B_fraction:chicane:F03:3102
+B_fraction,F03,chicane,3102,Pure Pursuit,0.6,0.0,1,0,0,-1,-1,1,-1,-1,DOE330,330,B_fraction:chicane:F03:3102
+B_fraction,F08,chicane,3102,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE331,331,B_fraction:chicane:F08:3102
+B_fraction,F08,chicane,3102,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE332,332,B_fraction:chicane:F08:3102
+B_fraction,F11,chicane,3103,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE333,333,B_fraction:chicane:F11:3103
+B_fraction,F11,chicane,3103,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE334,334,B_fraction:chicane:F11:3103
+B_fraction,F08,chicane,3101,Pure Pursuit,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE335,335,B_fraction:chicane:F08:3101
+B_fraction,F08,chicane,3101,Stanley,0.6,0.075,1,1,0,-1,1,1,1,-1,DOE336,336,B_fraction:chicane:F08:3101
+B_fraction,F13,chicane,3101,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE337,337,B_fraction:chicane:F13:3101
+B_fraction,F13,chicane,3101,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE338,338,B_fraction:chicane:F13:3101
+B_fraction,F06,chicane,3102,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE339,339,B_fraction:chicane:F06:3102
+B_fraction,F06,chicane,3102,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE340,340,B_fraction:chicane:F06:3102
+B_fraction,F07,chicane,3102,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE341,341,B_fraction:chicane:F07:3102
+B_fraction,F07,chicane,3102,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE342,342,B_fraction:chicane:F07:3102
+B_fraction,F11,chicane,3102,Pure Pursuit,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE343,343,B_fraction:chicane:F11:3102
+B_fraction,F11,chicane,3102,Stanley,2.0,0.0,1,0,1,1,-1,1,-1,1,DOE344,344,B_fraction:chicane:F11:3102
+B_fraction,F15,chicane,3102,Pure Pursuit,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE345,345,B_fraction:chicane:F15:3102
+B_fraction,F15,chicane,3102,Stanley,2.0,0.075,1,0,0,1,1,1,-1,-1,DOE346,346,B_fraction:chicane:F15:3102
+B_fraction,F07,chicane,3103,Pure Pursuit,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE347,347,B_fraction:chicane:F07:3103
+B_fraction,F07,chicane,3103,Stanley,0.6,0.075,1,0,1,-1,1,1,-1,1,DOE348,348,B_fraction:chicane:F07:3103
+B_fraction,F13,chicane,3103,Stanley,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE349,349,B_fraction:chicane:F13:3103
+B_fraction,F13,chicane,3103,Pure Pursuit,2.0,0.075,0,0,1,1,1,-1,-1,1,DOE350,350,B_fraction:chicane:F13:3103
+B_fraction,F04,chicane,3103,Pure Pursuit,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE351,351,B_fraction:chicane:F04:3103
+B_fraction,F04,chicane,3103,Stanley,0.6,0.0,1,1,1,-1,-1,1,1,1,DOE352,352,B_fraction:chicane:F04:3103
+B_fraction,F09,chicane,3102,Pure Pursuit,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE353,353,B_fraction:chicane:F09:3102
+B_fraction,F09,chicane,3102,Stanley,2.0,0.0,0,0,0,1,-1,-1,-1,-1,DOE354,354,B_fraction:chicane:F09:3102
+B_fraction,F06,chicane,3101,Pure Pursuit,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE355,355,B_fraction:chicane:F06:3101
+B_fraction,F06,chicane,3101,Stanley,0.6,0.075,0,1,1,-1,1,-1,1,1,DOE356,356,B_fraction:chicane:F06:3101
+B_fraction,F14,chicane,3103,Pure Pursuit,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE357,357,B_fraction:chicane:F14:3103
+B_fraction,F14,chicane,3103,Stanley,2.0,0.075,0,1,0,1,1,-1,1,-1,DOE358,358,B_fraction:chicane:F14:3103
+B_fraction,F02,chicane,3102,Stanley,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE359,359,B_fraction:chicane:F02:3102
+B_fraction,F02,chicane,3102,Pure Pursuit,0.6,0.0,0,1,0,-1,-1,-1,1,-1,DOE360,360,B_fraction:chicane:F02:3102

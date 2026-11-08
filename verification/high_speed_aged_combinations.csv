@@ -1,0 +1,9 @@
+controller,noise_on,bias_on,mismatch_on,runs,completed,accepted,conditional_median_rmse_m
+Pure Pursuit,0,0,1,9,1,0,0.1407255324823729
+Pure Pursuit,0,1,0,9,5,0,0.1340328410040533
+Pure Pursuit,1,0,0,9,1,0,0.1624728033301539
+Pure Pursuit,1,1,1,9,1,0,0.1372766518396564
+Stanley,0,0,1,9,9,0,0.1195559403185771
+Stanley,0,1,0,9,9,6,0.0785784954424585
+Stanley,1,0,0,9,9,0,0.1061695095605713
+Stanley,1,1,1,9,9,6,0.0950105813709692

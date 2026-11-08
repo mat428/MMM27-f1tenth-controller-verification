@@ -1,0 +1,38 @@
+[
+  {
+    "run_id": "DOE001",
+    "passed": true,
+    "safe_completion": true,
+    "samples": 1054
+  },
+  {
+    "run_id": "DOE002",
+    "passed": true,
+    "safe_completion": true,
+    "samples": 1091
+  },
+  {
+    "run_id": "DOE073",
+    "passed": true,
+    "safe_completion": false,
+    "samples": 886
+  },
+  {
+    "run_id": "DOE074",
+    "passed": true,
+    "safe_completion": true,
+    "samples": 1093
+  },
+  {
+    "run_id": "DOE082",
+    "passed": true,
+    "safe_completion": true,
+    "samples": 3476
+  },
+  {
+    "run_id": "DOE079",
+    "passed": true,
+    "safe_completion": true,
+    "samples": 1133
+  }
+]

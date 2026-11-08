@@ -1,0 +1,263 @@
+{
+  "published": {
+    "checks": {
+      "360_unique_runs": {
+        "passed": true,
+        "detail": null
+      },
+      "manifest_matches": {
+        "passed": true,
+        "detail": null
+      },
+      "phase_counts": {
+        "passed": true,
+        "detail": null
+      },
+      "matched_controller_pairs": {
+        "passed": true,
+        "detail": null
+      },
+      "assigned_seeds": {
+        "passed": true,
+        "detail": null
+      },
+      "resolution_V_generator": {
+        "passed": true,
+        "detail": null
+      },
+      "main_two_factor_balance": {
+        "passed": true,
+        "detail": null
+      },
+      "log_run_ids": {
+        "passed": true,
+        "detail": null
+      },
+      "sample_counts": {
+        "passed": true,
+        "detail": null
+      },
+      "recorded_source_hash": {
+        "passed": true,
+        "detail": null
+      },
+      "simulator_commit": {
+        "passed": true,
+        "detail": null
+      },
+      "frozen_tuning": {
+        "passed": true,
+        "detail": null
+      },
+      "projection_from_true_xy": {
+        "passed": true,
+        "detail": 9.870576578308032e-16
+      },
+      "heading_from_true_yaw": {
+        "passed": true,
+        "detail": 1.876103439268917e-15
+      },
+      "nearest_waypoint_indices": {
+        "passed": true,
+        "detail": null
+      },
+      "accuracy_recalculated": {
+        "passed": true,
+        "detail": 1.0658141036401503e-14
+      },
+      "failed_accuracy_missing": {
+        "passed": true,
+        "detail": null
+      },
+      "completion_semantics": {
+        "passed": true,
+        "detail": null
+      },
+      "buffer_startup_and_steady_age": {
+        "passed": true,
+        "detail": null
+      },
+      "100Hz_departure_counter": {
+        "passed": null,
+        "detail": "Not independently reconstructible: original archive contains only 50 Hz logs."
+      }
+    },
+    "summary": {
+      "raw_rows": 833662,
+      "nominal_paired_mean_difference_m": -0.04309924354613917,
+      "nominal_paired_median_difference_m": -0.03813136626230486,
+      "nominal_pairs_pp_lower": 36,
+      "counts": [
+        {
+          "phase": "A_nominal",
+          "controller": "Pure Pursuit",
+          "runs": 36,
+          "completed": 36,
+          "accepted": 36
+        },
+        {
+          "phase": "A_nominal",
+          "controller": "Stanley",
+          "runs": 36,
+          "completed": 36,
+          "accepted": 29
+        },
+        {
+          "phase": "B_fraction",
+          "controller": "Pure Pursuit",
+          "runs": 144,
+          "completed": 116,
+          "accepted": 108
+        },
+        {
+          "phase": "B_fraction",
+          "controller": "Stanley",
+          "runs": 144,
+          "completed": 144,
+          "accepted": 98
+        }
+      ]
+    },
+    "passed": true
+  },
+  "fresh": {
+    "checks": {
+      "360_unique_runs": {
+        "passed": true,
+        "detail": null
+      },
+      "manifest_matches": {
+        "passed": true,
+        "detail": null
+      },
+      "phase_counts": {
+        "passed": true,
+        "detail": null
+      },
+      "matched_controller_pairs": {
+        "passed": true,
+        "detail": null
+      },
+      "assigned_seeds": {
+        "passed": true,
+        "detail": null
+      },
+      "resolution_V_generator": {
+        "passed": true,
+        "detail": null
+      },
+      "main_two_factor_balance": {
+        "passed": true,
+        "detail": null
+      },
+      "log_run_ids": {
+        "passed": true,
+        "detail": null
+      },
+      "sample_counts": {
+        "passed": true,
+        "detail": null
+      },
+      "recorded_source_hash": {
+        "passed": true,
+        "detail": null
+      },
+      "simulator_commit": {
+        "passed": true,
+        "detail": null
+      },
+      "frozen_tuning": {
+        "passed": true,
+        "detail": null
+      },
+      "projection_from_true_xy": {
+        "passed": true,
+        "detail": 9.870576578308032e-16
+      },
+      "heading_from_true_yaw": {
+        "passed": true,
+        "detail": 1.876103439268917e-15
+      },
+      "nearest_waypoint_indices": {
+        "passed": true,
+        "detail": null
+      },
+      "accuracy_recalculated": {
+        "passed": true,
+        "detail": 1.0658141036401503e-14
+      },
+      "failed_accuracy_missing": {
+        "passed": true,
+        "detail": null
+      },
+      "completion_semantics": {
+        "passed": true,
+        "detail": null
+      },
+      "buffer_startup_and_steady_age": {
+        "passed": true,
+        "detail": null
+      },
+      "100Hz_projection_from_true_xy": {
+        "passed": true,
+        "detail": null
+      },
+      "100Hz_departure_counter": {
+        "passed": true,
+        "detail": null
+      }
+    },
+    "summary": {
+      "raw_rows": 833662,
+      "nominal_paired_mean_difference_m": -0.04309924354613917,
+      "nominal_paired_median_difference_m": -0.03813136626230486,
+      "nominal_pairs_pp_lower": 36,
+      "counts": [
+        {
+          "phase": "A_nominal",
+          "controller": "Pure Pursuit",
+          "runs": 36,
+          "completed": 36,
+          "accepted": 36
+        },
+        {
+          "phase": "A_nominal",
+          "controller": "Stanley",
+          "runs": 36,
+          "completed": 36,
+          "accepted": 29
+        },
+        {
+          "phase": "B_fraction",
+          "controller": "Pure Pursuit",
+          "runs": 144,
+          "completed": 116,
+          "accepted": 108
+        },
+        {
+          "phase": "B_fraction",
+          "controller": "Stanley",
+          "runs": 144,
+          "completed": 144,
+          "accepted": 98
+        }
+      ]
+    },
+    "passed": true
+  },
+  "comparison": {
+    "checks": {
+      "manifest_identical": true,
+      "all_nontiming_summary_fields_match": true,
+      "all_nontiming_raw_fields_match": true,
+      "tuning_scores_match": true,
+      "fresh_tuning_traces_recalculate": true
+    },
+    "absolute_tolerance": 1e-08,
+    "relative_tolerance": 0,
+    "excluded": "CPU computation time, wall-clock execution time, gzip container bytes",
+    "tuning_max_absolute_score_difference_m": 0.0,
+    "tuning_raw_metric_recalculation_max_difference_m": 4.163336342344337e-17
+  },
+  "passed": true
+}

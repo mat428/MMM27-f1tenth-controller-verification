@@ -1,0 +1,18 @@
+# Exact numerical/headless dependency versions used in the fresh reproduction.
+# Upstream F1TENTH is installed separately, at the pinned Git commit, --no-deps.
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+Pillow==13.0.0
+gym==0.26.2
+numba==0.63.1
+llvmlite==0.46.0
+pyglet==1.4.11
+PyYAML==6.0.3
+cloudpickle==3.1.2
+gym-notices==0.1.0
+future==1.0.0
+python-dateutil==3.0.0
+pytz==2026.6
+tzdata==2026.6
+six==1.17.0
