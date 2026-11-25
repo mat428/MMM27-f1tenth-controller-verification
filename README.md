@@ -205,20 +205,3 @@ git remote add origin https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY.git
 git push -u origin main
 ```
 
-Replace the example URL with your actual repository. Large files are kept
-compressed and must remain unchanged; check your hosting service's current
-file-size rules. For a blinded review, follow the venue's anonymity policy
-rather than exposing an identifying public account. For public publication,
-tag an immutable release, archive it in a DOI-granting repository if required,
-and update `CITATION.cff` and the manuscript with the actual URL and release
-identifier. A GitHub branch link alone does not freeze the reviewed evidence.
-
-After intentional documentation/licensing edits, regenerate the release hash
-manifest with `python scripts/check_integrity.py --write` and check it again.
-Do not rewrite checksums to conceal unexpected numerical-data or source changes;
-investigate those and rerun the scientific checks first.
-
-AI assistance was used for coding, execution orchestration, analysis and
-documentation. Python and the pinned simulator, not language-model-generated
-numerical estimates, produced the fresh trajectories. Authors remain
-responsible for the scientific claims, approvals and release permissions.
