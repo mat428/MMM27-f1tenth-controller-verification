@@ -184,24 +184,5 @@ See [protocol details](docs/PROTOCOL.md) and the
 [data dictionary](docs/DATA_DICTIONARY.md) for signs, initial conditions,
 delay-buffer warm-up, lap semantics, timeout and recorded fields.
 
-## Sharing with reviewers and readers
 
-This package is ready to upload to a repository; **no online repository has
-been created by this workflow**. After author/coauthor and institutional
-approval, create your GitHub repository and upload these contents preserving
-the directory structure. Do not upload `.venv`, `vendor` or caches. Use Git
-from your computer for the large compressed time series rather than the
-browser uploader. Review `RIGHTS.md` and select code/data licences before
-public release; no licence has been assigned on the authors' behalf.
-
-For example, after creating an empty GitHub repository:
-
-```bash
-git init
-git add .
-git commit -m "Release F1TENTH verification code, data and reproduction evidence"
-git branch -M main
-git remote add origin https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY.git
-git push -u origin main
-```
 
