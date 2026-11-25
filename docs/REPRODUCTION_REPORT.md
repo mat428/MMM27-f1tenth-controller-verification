@@ -78,26 +78,5 @@ recalculation from all 16 newly recorded tuning trajectories. These checks test
 record consistency and computational repeatability, not all aspects of
 scientific validity. See verification_report.json for authoritative results.
 
-## Interpretation and remaining author actions
 
-No original experimental observations were replaced, no failed-run RMSE was
-imputed and no original/fresh runs were pooled. The fresh reproduction does
-not add controller baselines, reverse-track trials, a causal failure mechanism,
-physical validation or an independent simulator. It confirms repeatability
-of this implementation and its numerical records in the tested environment.
 
-The online GitHub repository has not yet been created. Authors must choose
-its actual address, confirm release/licensing and coauthor permissions,
-publish an immutable release, and replace the obvious placeholder in the
-separate LaTeX manuscript. No URL, DOI, public deposit or human approval has
-been fabricated. The native EAP eight-page layout still needs Overleaf checking.
-
-If Numba fails to import with a bus error and a truncated libllvmlite.so is
-confirmed, a clean reinstall in the disposable environment was sufficient here:
-
-```bash
-.venv/bin/python -m pip install --force-reinstall --no-cache-dir --no-deps llvmlite==0.46.0
-```
-
-Do not treat that command as a general fix for every native-library failure;
-inspect the actual error and environment first.
